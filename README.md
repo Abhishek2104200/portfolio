@@ -1,4 +1,4 @@
-A modern HTML project utilizing CSS for building responsive web applications with minimal setup.
+My Portfolio
 
 ## 🚀 Features
 
@@ -8,7 +8,7 @@ A modern HTML project utilizing CSS for building responsive web applications wit
 ## 📁 Project Structure
 
 ```
-html_app/
+abhi/
 ├── pages/              # Additional HTML pages
 ├── index.html          # Main HTML entry point
 └── assets/             # Images, fonts, and other static assets
@@ -18,10 +18,3 @@ html_app/
 ## 🎨 Styling
 
 This project uses CSS for styling.
-
-## 🙏 Acknowledgments
-
-- Built with [Rocket.new](https://rocket.new)
-- Powered by HTML and CSS
-
-Built with ❤️ on Rocket.new
